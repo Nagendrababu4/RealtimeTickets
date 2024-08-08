@@ -1,0 +1,13 @@
+{
+  "clientId": "0oa1q85btfqsIx7R91d8",
+  "secretKey": "xJpQbGXAHu2S4r7SzwccctunVEIeitGXw_TJP3Vi3NO34psuO7f0TPlzp8Smh55p",
+  "grantType": "client_credentials",
+  "scope": "read",
+  "tokenApi": "https://bmcdev.okta.com/oauth2/aus1hc06t8vRWiVwj1d8/v1/token",
+
+  "notificationGuestuserApi": "https://igatedev.bmc.com/gateway/userportal/notifalerts/guestUser",
+  "notificationLoggedInUserApi": "https://igatedev.bmc.com/gateway/userportal/notifalerts/loggedUser",
+  "profileImageApi": "https://igatedev.bmc.com/gateway/userportal/v1/user/photo",
+  "activitiesEndPoint": "https://igatedev.bmc.com/gateway/userportal/v1/user/recent/activities",
+  "orientationChecklistEndPoint": "https://webapi.bmc.com/personalisation/v1/user/orientationcheck"
+}
